@@ -14,4 +14,4 @@ Battle tebak gambar, blue team vs red team. To insert puzzles, just change the [
 
 Insipired by [Baamboozle](https://www.baamboozle.com/) style of games.
 
-Made this basically 1 hour before the game session that I host start, glory to the Gemini 3.1 Pro !!! 🗣️🔥
+Made this basically 1 hour before the game session that I host started, glory to the Gemini 3.1 Pro ‼️🗣️🔥
