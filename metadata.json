@@ -1,0 +1,5 @@
+{
+  "name": "Tebak Gambar",
+  "description": "A group-based puzzle guessing game where players guess a word from a picture.",
+  "requestFramePermissions": []
+}
